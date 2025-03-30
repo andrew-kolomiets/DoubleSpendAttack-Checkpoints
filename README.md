@@ -26,6 +26,5 @@ python PoW.py  # Аналіз для PoW
 - unicodedata
 - numpy
 
-## Автор
-[Коломієць Андрій]
+
 
