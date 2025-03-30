@@ -14,6 +14,18 @@ python PoS.py  # Аналіз для PoS
 python PoW.py  # Аналіз для PoW
 ```
 
+## Вимоги
+- Python 3.x
+- NumPy
+- Matplotlib (якщо потрібна візуалізація даних)
+- SymPy
+- gmpy2
+- SciPy
+- Decimal
+- BigFloat
+- unicodedata
+- numpy
 
-
+## Автор
+[Коломієць Андрій]
 
