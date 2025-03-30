@@ -1,30 +1,14 @@
 # Double Spend Attack with Checkpoints
 
-## Опис
-Цей репозиторій містить статистичні обчислення ймовірності атаки подвійної витрати для протоколів Proof of Stake (PoS) і Proof of Work (PoW) з використанням чекпоінтів.
+## Description
+This repository contains statistical calculations of the probability of a double spend attack for Proof of Stake (PoS) and Proof of Work (PoW) protocols using checkpoints.
 
-## Структура файлів
-- **PoS.py** – скрипт для обчислення ймовірності атаки подвійної витрати в Proof of Stake з використанням чекпоінтів.
-- **PoW.py** – скрипт для обчислення ймовірності атаки подвійної витрати в Proof of Work з використанням чекпоінтів .
+## File Structure
+- **PoS.py** – script for calculating the probability of a double spend attack in Proof of Stake with checkpoints.
+- **PoW.py** – script for calculating the probability of a double spend attack in Proof of Work with checkpoints.
 
-## Використання
-Запусти відповідний скрипт для аналізу:
+## Usage
+Run the corresponding script for analysis:
 ```bash
-python PoS.py  # Аналіз для PoS
-python PoW.py  # Аналіз для PoW
-```
-
-## Вимоги
-- Python 3.x
-- NumPy
-- Matplotlib
-- SymPy
-- gmpy2
-- SciPy
-- Decimal
-- BigFloat
-- unicodedata
-- numpy
-
-
-
+python PoS.py  # Analysis for PoS
+python PoW.py  # Analysis for PoW
