@@ -17,7 +17,7 @@ python PoW.py  # Аналіз для PoW
 ## Вимоги
 - Python 3.x
 - NumPy
-- Matplotlib (якщо потрібна візуалізація даних)
+- Matplotlib
 - SymPy
 - gmpy2
 - SciPy
